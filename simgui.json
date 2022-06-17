@@ -4,6 +4,38 @@
       "window": {
         "visible": true
       }
+    },
+    "Other Devices": {
+      "Talon SRX[12]": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon SRX[12]/Analog In": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon SRX[12]/Fwd Limit": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon SRX[12]/Pulse Width Input": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon SRX[12]/Quad Encoder": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon SRX[12]/Rev Limit": {
+        "header": {
+          "open": true
+        }
+      }
     }
   },
   "NTProvider": {
